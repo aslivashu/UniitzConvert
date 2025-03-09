@@ -8,8 +8,9 @@ UniitzConvert is a simple yet efficient unit conversion application that allows 
 ⚡ Lightweight & Fast: Minimal UI for quick and hassle-free conversions.
 
 📌 Future Enhancements
-Support for more unit conversions (grams to ounces, meters to feet, etc.)
-Dark mode for better user experience
-Progressive Web App (PWA) support
+Support for Multiple Units: Extend the app to convert different types of units, including length (meters to feet), volume (liters to gallons), temperature (Celsius to Fahrenheit), and more.
+Dark Mode: Add a dark mode feature for better user experience.
+Progressive Web App (PWA) Support: Enable offline usage for seamless accessibility.
+History & Favorites: Allow users to save frequently used conversions for quick access.
 
 Feel free to contribute or suggest improvements! 🚀🎯
