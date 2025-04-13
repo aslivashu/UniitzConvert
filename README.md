@@ -13,4 +13,6 @@ Dark Mode: Add a dark mode feature for better user experience.
 Progressive Web App (PWA) Support: Enable offline usage for seamless accessibility.
 History & Favorites: Allow users to save frequently used conversions for quick access.
 
-Feel free to contribute or suggest improvements! 🚀🎯
+Feel free to contribute or suggest improvements! 
+
+You can also download and use the application as I have released its first verion.
